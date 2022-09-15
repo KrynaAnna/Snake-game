@@ -14,3 +14,5 @@ With each apple, the snake changes in size.
 <li>OOP</li>
 
 <li>Functions</li>
+
+![01](https://user-images.githubusercontent.com/98818064/190398503-7553856d-a35e-47b4-8303-6cd3b01c02e1.png)
